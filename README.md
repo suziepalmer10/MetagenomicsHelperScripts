@@ -1,5 +1,7 @@
+# How to use a Python Script in Command Line
+## Suzette Palmer
 1. Create a Text File:
-- Open your terminal (For Mac, go to "Launchpad" and type "terminal".
+- Open your terminal (For Mac, go to "Launchpad" and type "terminal").
 - Once open, navigate to where you would like to set up your script
 	- For beginners, I would recommend moving to your Desktop. 
 - To navigate to the Desktop, use the command:
